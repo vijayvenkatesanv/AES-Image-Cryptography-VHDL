@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Jun 10 13:41:04 2025
+# Process ID         : 15320
+# Current directory  : C:/Users/venka/OneDrive - Amrita Vishwa Vidyapeetham/Desktop/Pictures/Desktop/StudyMaterials/SEM6/VLSI Lab/project_1
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent25556 C:\Users\venka\OneDrive - Amrita Vishwa Vidyapeetham\Desktop\Pictures\Desktop\StudyMaterials\SEM6\VLSI Lab\project_1\project_1.xpr
+# Log file           : C:/Users/venka/OneDrive - Amrita Vishwa Vidyapeetham/Desktop/Pictures/Desktop/StudyMaterials/SEM6/VLSI Lab/project_1/vivado.log
+# Journal file       : C:/Users/venka/OneDrive - Amrita Vishwa Vidyapeetham/Desktop/Pictures/Desktop/StudyMaterials/SEM6/VLSI Lab/project_1\vivado.jou
+# Running On         : vijay
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz
+# CPU Frequency      : 3110 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 16952 MB
+# Swap memory        : 4294 MB
+# Total Virtual      : 21247 MB
+# Available Virtual  : 5137 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/venka/OneDrive - Amrita Vishwa Vidyapeetham/Desktop/Pictures/Desktop/StudyMaterials/SEM6/VLSI Lab/project_1/project_1.xpr}
+update_compile_order -fileset sources_1
