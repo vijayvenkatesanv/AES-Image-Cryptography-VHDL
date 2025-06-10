@@ -99,6 +99,7 @@ When passkey is wrong:
 ![WhatsApp Image 2025-04-07 at 15 29 54_e3cf332a](https://github.com/user-attachments/assets/a778c88f-c53d-48f7-8976-edd7be32f232)
 
 When passkey is right:
+Retrieved Binary: 10000101
 
 ![WhatsApp Image 2025-04-07 at 15 29 55_36c7b72e](https://github.com/user-attachments/assets/884bbbbe-8e5e-4691-a617-fd9324cc4241)
 
